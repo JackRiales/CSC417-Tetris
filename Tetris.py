@@ -21,8 +21,8 @@ def main():
     DISPLAYSURF = pygame.display.set_mode((Config.WINDOWWIDTH, Config.WINDOWHEIGHT))
     BASICFONT = pygame.font.Font('freesansbold.ttf', 18)
     BIGFONT = pygame.font.Font('freesansbold.ttf', 100)
-    pygame.display.set_caption('Tetromino')
-    showTextScreen('Tetromino')
+    pygame.display.set_caption('EVIL TETRIS')
+    showTextScreen('EVIL TETRIS')
 
     while True:
         if random.randint(0, 1) == 0:

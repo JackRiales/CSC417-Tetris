@@ -11,7 +11,7 @@ FPS             = 25
 
 # Tetris Sizing Configurations
 BOXSIZE         = 20
-BOARDWIDTH      = 10
+BOARDWIDTH      = 30
 BOARDHEIGHT     = 20
 BLANK           = '.'
 
