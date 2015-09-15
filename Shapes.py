@@ -112,7 +112,7 @@ T_SHAPE_TEMPLATE = [['.....',
                      '..O..',
                      '.....']]
 
-SHAPES = {'S': S_SHAPE_TEMPLATE,
+PIECES = {'S': S_SHAPE_TEMPLATE,
           'Z': Z_SHAPE_TEMPLATE,
           'J': J_SHAPE_TEMPLATE,
           'L': L_SHAPE_TEMPLATE,
