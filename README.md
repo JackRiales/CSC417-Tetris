@@ -13,4 +13,16 @@ Platform:
     Pygame
 
 Usage:
-    $> python %main_file_name%.py
+    $> python Tetris.py
+
+Changes:
+
+1. Stage width tripled.
+2. Random / null rotations.
+3. New, difficult to manage block shapes.
+4. Block that rotates itself.
+
+Issues and Fixes:
+
+1. A feature was added to make the blocks move slower horizontally and faster vertically. This became too hard.
+2. New blocks were added, but one in the shape of a checker board was too much.
